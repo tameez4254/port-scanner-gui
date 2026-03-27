@@ -26,24 +26,3 @@ A lightweight TCP port scanner with a graphical user interface built using Pytho
 ## ▶️ How to Run
 
 ```bash
-
-pytho---
-
-## 🔥 How to Add It on GitHub
-
-1. Open your repo  
-2. Click **README.md**
-3. Click ✏️ **Edit**
-4. Paste the above content  
-5. Click **Commit changes**
-
----
-
-## 💡 Pro Tips (Make it look even cooler 😎)
-
-You can also add:
-
-### ✅ Badges (top of README)
-```md
-![Python](https://img.shields.io/badge/Python-3.7+-blue)
-![License](https://img.shields.io/badge/License-MIT-green)n port_scanner_gui.py
