@@ -26,4 +26,4 @@ A lightweight TCP port scanner with a graphical user interface built using Pytho
 ## ▶️ How to Run
 
 ```bash
-python port_scanner_gui.py
+python port_scanner_gui(1).py
