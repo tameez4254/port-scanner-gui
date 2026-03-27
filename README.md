@@ -41,4 +41,5 @@ Disclaimer
 This tool is for educational purposes only. Use only on systems you own or have permission to scan.
 
 Author
+
 Shaik Tameez
