@@ -27,8 +27,8 @@ A lightweight TCP port scanner with a graphical user interface built using Pytho
 
 ```bash
 python port_scanner_gui(1).py
-
-``` Why is this project used?
+```
+Why is this project used?
 This project is mainly used for:
 
 1:- Security Analysis Detect open ports that could be vulnerable Helps in identifying unauthorized services Useful in ethical hacking and penetration testing
@@ -41,4 +41,4 @@ Disclaimer
 This tool is for educational purposes only. Use only on systems you own or have permission to scan.
 
 Author
-Shaik Sameer
+Shaik Tameez
